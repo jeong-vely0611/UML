@@ -19,9 +19,9 @@
    : 구현하는 시간을 단축 할 수 있음
 * **백엔드 문서용으로 적합함**
 
-### 2. UML 작성 시 주의사항
-* 핵심적인 기능 위주로 작업 (복잡하게 작업 X)
-* 반복을 통해 수정 (틈틈히 수정)
+### 2. UML 작성(모델링) 시 주의사항
+* 핵심적인 기능 위주로 간결하게 작업 (복잡하게 작업 X)
+* 반복을 통해 수정 (분석/설계 단계에서만 하는것이 아니므로, 다듬어 나가는 것이 중요!)
 * 모델링 후 다이어그램을 봤을 때 코드를 작성할 수 있어야 함
 
 ### 3. UML 다이어그램 종류
@@ -46,18 +46,18 @@
 > starUML 5.0 설치(UML 툴 중에서 가장 보편화 되어 있는 프로그램)
 
 1. http://sourceforge.net/projects/staruml/files/staruml/5.0
-2. Download Latest Version 클릭
-3. exe 설치
-4. Next > 경로 설정, Next > ...
-5. 사용자 가이드 : http://staruml.sourceforge.net/docs/user-guide(ko)/toc.html
+2. Download Latest Version 클릭 후 exe 설치
+3. Next > 경로 설정, Next > ...
+4. 사용자 가이드 : http://staruml.sourceforge.net/docs/user-guide(ko)/toc.html
+5. profile 설정하기(Tools > Java > Generate Code 클릭 시 오류 창 뜰 때)
+   * Model > Profiles > Java Profile 선택 > Include > Close
 
-### 5. 기본 설정 및 기능
-1. profile 설정하기(Tools > Java > Generate Code 클릭 시 오류 창 뜰 때)
-   * Model > Profiles > Java Profile 선택 > Include > Close 
-2. Model Explorer : 다이어그램 만드는 작업공간 (항상 켜있어야 함)
-3. Properties : 요소에 대한 정보들을 확인하고 수정하는 공간 (항상 켜있어야 함)
-4. Output
+### 6. V 프로세스 
+<p align="center">
+  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/50d4db67-c9ff-468b-aa46-649273822d8d" height="250px">
+</p>
 
+  
 
 
 
