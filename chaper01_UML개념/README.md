@@ -42,17 +42,7 @@
 * **시퀀스 다이어그램**
    : 시간 흐름에 따른 객체 사이의 상호작용을 나타낸 다이어그램
 
-### 4. UML 툴 설치
-> starUML 5.0 설치(UML 툴 중에서 가장 보편화 되어 있는 프로그램)
-
-1. http://sourceforge.net/projects/staruml/files/staruml/5.0
-2. Download Latest Version 클릭 후 exe 설치
-3. Next > 경로 설정, Next > ...
-4. 사용자 가이드 : http://staruml.sourceforge.net/docs/user-guide(ko)/toc.html
-5. profile 설정하기(Tools > Java > Generate Code 클릭 시 오류 창 뜰 때)
-   * Model > Profiles > Java Profile 선택 > Include > Close
-
-### 6. V 프로세스 
+### 4. V 프로세스 
 <p align="center">
   <img src="https://github.com/jeong-vely0611/UML/assets/148931569/50d4db67-c9ff-468b-aa46-649273822d8d" height="250px">
 </p>
