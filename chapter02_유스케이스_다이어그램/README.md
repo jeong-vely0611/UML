@@ -1,7 +1,7 @@
 # 요구사항
 
 ### 1. 요구사항이란,
-<p align="center">
+<p>
   <img src="https://github.com/jeong-vely0611/UML/assets/148931569/7b6d7293-0378-4e72-ad65-334ec016be77">
 </p>
 
@@ -32,7 +32,7 @@
 * 시스템 관점에서 바라본 사용자의 역할을 해야 함 (= 타 시스템 역할)
 * 여러개의 액터가 존재할 수 있음
 * ★액터는 시스템 외부의 존재이므로 항상 시스템(네모) 밖에 위치해야 함!!!
-<p align="center">
+<p>
   <img src="https://github.com/jeong-vely0611/UML/assets/148931569/4cf74cbe-0db7-41b7-9cde-fb0bb920ec40" height="200px">
 </p>
 
@@ -40,13 +40,13 @@
 * 개발 대상이 되는 시스템이 제공하는 개별적인 기능
 * 사용자가 인지할 수 있는 (눈에 보이는) 하나의 기능 단위
 * 유스케이스 ⇔ 유스케이스 관계 설정 가능
-<p align="center">
+<p>
   <img src="https://github.com/jeong-vely0611/UML/assets/148931569/7879f171-d880-4942-b224-c1896e724050" height="200px">
 </p>
 
 ### 3. 관계 (화살표)
 #### 3-1. 유스케이스 다이어그램 관계 종류
-  <p align="center">
+  <p>
     <img src="https://github.com/jeong-vely0611/UML/assets/148931569/f64dc370-261f-43b1-aac8-9d340c045dfa" width="600px">
   </p>
 
@@ -56,7 +56,7 @@
   * **일반화 관계** : 추상화한 하나의 유스케이스, 그룹핑하여 이해도를 높인 관계
   
 #### 3-2. 액터와 유스케이스간의 '연관 관계' 방향
-  <p align="center">
+  <p>
     <img src="https://github.com/jeong-vely0611/UML/assets/148931569/380ee604-7448-4b94-bdc1-da060895938f" width="600px">
   </p>
 
