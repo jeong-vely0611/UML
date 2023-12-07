@@ -27,7 +27,7 @@
  |FIELD|속성(상수)|final|
  | *Class* , *method* (기울임)|클래스 명(추상 클래스), 연산(추상 메소드)|abstract|
 
- #### 1-3. UML로 작업해보기
+ #### 1-3. 속성
  1. `Add Model` > `Add Diagram` > `Class Diagram`
  2. Class 만든 후, 속성과 연산(메소드) 추가
     * `Add Arribute` (초록색) : [접근제한자]속성 및 자료형 작성
