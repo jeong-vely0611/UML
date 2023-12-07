@@ -11,9 +11,6 @@
 * 첫 번째 칸은 클래스 명(이름)을 작성
 * 가운데 칸은 속성과 자료형을 작성 (= `멤버 변수`)
 * 마지막 칸은 연산과 자료형을 작성 (= `메소드`)
-* 사용한 접근 제한자도 표기하여 작성(public, protected, default, private)
-* static 변수는 밑줄 표시가 됨
-* 추상메소드 이탤랙체로 표시가 됨 (=> 따라서 클래스명도 이탵릭체로 표시)
 
  #### 1-1. 접근 제한자 표기법
  |접근제한자|예약어|적용 범위|
@@ -30,6 +27,17 @@
  |FIELD|속성(상수)|final|
  | *Class* , *method* (기울임)|클래스 명(추상 클래스), 연산(추상 메소드)|abstract|
 
- 
- 
+ #### 1-3. UML로 작업해보기
+ 1. `Add Model` > `Add Diagram` > `Class Diagram`
+ 2. Class 만든 후, 속성과 연산(메소드) 추가
+    * `Add Arribute` (초록색) : [접근제한자]속성 및 자료형 작성
+    * `Add Operation` (빨간색) : [접근제한자]연산 및 반환타입 작성
+    <p>
+      <img src="https://github.com/jeong-vely0611/UML/assets/148931569/704e356a-2845-49ac-b800-6f5b3dee051b">
+    </p>
+3. `Visibility` : 접근제한자 변경하기 
+4. `InitialValue` : 값 초기화 하기 
+5. `OwnerScope` : static 속성으로 변환하기  ->  CLASSIFIER
+6. `Changeability` : 상수 선언하기(final, 값 변환되지 않게 하기) -> FROZEN
+7.  `IsAbstract` : 추상 메소드로 변경하기 (추상메소드를 가지면 추상클래스이므로, 클래스도 IsAbstract로 추상클래스로 변환해 주어야 함) 
  
