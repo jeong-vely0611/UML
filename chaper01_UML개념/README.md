@@ -2,7 +2,7 @@
 * **모델을 만드는 작업**, 현실 세계(실체)를 단순화 시켜 표현하는 기법
 * 현실을 간단하게 설명하기 위해 **여러 단위들 간의 관계도**로 보여주는 형태
 <p align="center">
-  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/1954101e-ecd5-4bba-9b15-bcc233f049e3" height="150px">
+  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/04203dc0-36fe-4cd7-9490-cfdb11b40a28" height="250px">
 </p>
 
 
@@ -28,11 +28,11 @@
 * 크게 **`정적 다이어그램`** 과 **`동적 다이어그램`** 으로 나뉨
 
 <p align="center">
-  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/b17e1259-51ec-48ea-9623-ab2f97ee98b7" height="150px">
+  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/bea145ad-ef62-4928-9513-1db31a346f73" height="150px">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/9a8c33bd-902a-415c-afee-a4ee3ae95e77" height="300px">
+  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/30fdd619-1842-42a4-b0d7-11b65c126cdb" height="300px">
 </p>
 
 * **클래스 다이어그램** 
@@ -51,6 +51,12 @@
 4. Next > 경로 설정, Next > ...
 5. 사용자 가이드 : http://staruml.sourceforge.net/docs/user-guide(ko)/toc.html
 
+### 5. 기본 설정 및 기능
+1. profile 설정하기(Tools > Java > Generate Code 클릭 시 오류 창 뜰 때)
+   * Model > Profiles > Java Profile 선택 > Include > Close 
+2. Model Explorer : 다이어그램 만드는 작업공간 (항상 켜있어야 함)
+3. Properties : 요소에 대한 정보들을 확인하고 수정하는 공간 (항상 켜있어야 함)
+4. Output
 
 
 
