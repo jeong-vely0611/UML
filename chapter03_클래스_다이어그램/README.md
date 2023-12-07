@@ -26,9 +26,10 @@
  #### 1-2. 표기법
  |표현법|적용 범위|예약어|
  |:---:|:---:|:---:|
- |<u>attribute</u> / <u>method</u> (밑줄)|속성(변수), 연산(메소드)|static|
+ | <u>attribute</u> , <u>method</u> (밑줄)|속성(변수), 연산(메소드)|static|
  |FIELD|속성(상수)|final|
- |*Class* / *method* (기울임)|클래스 명(추상 클래스), 연산(추상 메소드)|abstract|
+ | *Class* , *method* (기울임)|클래스 명(추상 클래스), 연산(추상 메소드)|abstract|
+
  
  
  
