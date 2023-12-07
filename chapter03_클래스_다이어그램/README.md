@@ -46,4 +46,9 @@
     <p>
       <img src="https://github.com/jeong-vely0611/UML/assets/148931569/c258b339-9071-43ab-a867-3a0d63899f47" height="200px">
     </p> 
+8. 자바(Java)의 소스코드 뽑아내기
+   * getter/setter 메소드는 직접 구현해야 함
+    <p>
+      <img src="https://github.com/jeong-vely0611/UML/assets/148931569/640a66a3-8601-43d6-b7f4-aa8b7bcc55e4" height="200px">
+    </p> 
  
