@@ -45,6 +45,4 @@
   <img src="https://github.com/jeong-vely0611/UML/assets/148931569/fe5ac097-a579-45b9-abff-35246db293bf" height="250px">
 </p>
 
-* alt : 
-
 
