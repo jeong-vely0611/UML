@@ -42,5 +42,16 @@
 * **시퀀스 다이어그램**
    : 시간 흐름에 따른 객체 사이의 상호작용을 나타낸 다이어그램
 
+### 4. UML 툴 설치
+> starUML 5.0 설치(UML 툴 중에서 가장 보편화 되어 있는 프로그램)
+
+1. http://sourceforge.net/projects/staruml/files/staruml/5.0
+2. Download Latest Version 클릭
+3. exe 설치
+4. Next > 경로 설정, Next > ...
+5. 사용자 가이드 : http://staruml.sourceforge.net/docs/user-guide(ko)/toc.html
+
+
+
 
 
