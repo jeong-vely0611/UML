@@ -29,7 +29,7 @@
 
  #### 1-3. 속성
  1. `Add Model` > `Add Diagram` > `Class Diagram`
- 2. Class 만든 후, 속성과 연산(메소드) 추가
+ 2. Class 만든 후, 속성과 연산(메소드) 추가    
     * `Add Arribute` (초록색) : [접근제한자]속성 및 자료형 작성
     * `Add Operation` (빨간색) : [접근제한자]연산 및 반환타입 작성
     <p>
@@ -39,5 +39,11 @@
 4. `InitialValue` : 값 초기화 하기 
 5. `OwnerScope` : static 속성으로 변환하기  ->  CLASSIFIER
 6. `Changeability` : 상수 선언하기(final, 값 변환되지 않게 하기) -> FROZEN
-7.  `IsAbstract` : 추상 메소드로 변경하기 (추상메소드를 가지면 추상클래스이므로, 클래스도 IsAbstract로 추상클래스로 변환해 주어야 함) 
+    <p>
+      <img src="https://github.com/jeong-vely0611/UML/assets/148931569/1a4ce00c-d795-4ad9-8440-29486302b29c" height="200px">
+    </p>    
+7.  `IsAbstract` : 추상 메소드로 변경하기 (추상메소드를 가지면 추상클래스이므로, 클래스도 IsAbstract로 추상클래스로 변환해 주어야 함)
+    <p>
+      <img src="https://github.com/jeong-vely0611/UML/assets/148931569/c258b339-9071-43ab-a867-3a0d63899f47" height="200px">
+    </p> 
  
