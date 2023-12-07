@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/9a8c33bd-902a-415c-afee-a4ee3ae95e77" height="150px">
+  <img src="https://github.com/jeong-vely0611/UML/assets/148931569/9a8c33bd-902a-415c-afee-a4ee3ae95e77" height="300px">
 </p>
 
 * **클래스 다이어그램** 
